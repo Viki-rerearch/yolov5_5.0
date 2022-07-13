@@ -1,0 +1,5 @@
+train: /codeyard/yolov5_5.0/data/train.txt
+val:  /codeyard/yolov5_5.0/data/train.txt
+
+nc: 7
+names: ['hd','ls','ptbx','jl','hmxmb','logo', 'zjbq']
