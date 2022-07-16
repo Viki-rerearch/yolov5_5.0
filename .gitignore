@@ -6,7 +6,7 @@
 *.tif
 *.tiff
 *.heic
-*.JPG
+#*.JPG
 *.JPEG
 *.PNG
 #*.BMP
@@ -26,8 +26,8 @@
 storage.googleapis.com
 #runs/*
 #data/*
-!data/images/zidane.jpg
-!data/images/bus.jpg
+#!data/images/zidane.jpg
+#!data/images/bus.jpg
 !data/coco.names
 !data/coco_paper.names
 !data/coco.data
